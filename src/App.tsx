@@ -1,4 +1,5 @@
 import './index.css';
+import './css/_variables.css';
 import store from './lib/store';
 
 import { Provider } from 'react-redux';
